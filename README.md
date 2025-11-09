@@ -101,10 +101,6 @@ rag-system/
 - `POST /api/delete-source` - Remove a source and its chunks
 - `POST /api/test-model` - Test model connection
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Ollama](https://ollama.ai/) for providing easy access to local LLMs
